@@ -40,8 +40,3 @@ Tag the bot (@TimeStamper) with:
 Responds to time mentions in messages:  
 "Meeting tomorrow at 14:30 IST" → converts automatically
 
-### 4. Hosting 🖥️
-#### Environment Variables
-```env
-DISCORD_TOKEN=your_bot_token
-DATABASE_URL=sqlite:///timezones.db
