@@ -12,7 +12,7 @@ A Discord bot that converts time mentions to Discord's universal timestamps and 
 ## Setup Guide 🛠️
 
 ### 1. Invite the Bot
-[Invite Link](https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=277025770560&scope=bot%20applications.commands)
+[Invite Link](https://discord.com/api/oauth2/authorize?client_id=1334788863608225895&permissions=274877983808&scope=bot%20applications.commands)
 
 Required Permissions:
 - Send Messages
